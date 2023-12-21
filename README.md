@@ -13,3 +13,5 @@ Multiple formats of FLAN-T5 models are available on Hugging Face:
 - google/flan-t5-large (780m parameters, 1GB)
 - google/flan-t5-xl (3b parameters, 12GB)
 - google/flan-t5-xxl (11b parameters, 80GB)
+
+Updated
